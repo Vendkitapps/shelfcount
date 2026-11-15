@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- two boxes on a shelf -->
+    <path android:fillColor="#FFD43B" android:pathData="M36,48h14v16H36z" />
+    <path android:fillColor="#FFD43B" android:pathData="M53,40h19v24H53z" />
+    <path android:fillColor="#F4F7F5" android:pathData="M34,64h40v4H34z" />
+    <!-- barcode on the big box -->
+    <path android:fillColor="#0F766E" android:pathData="M56,47h2v12h-2z M60,47h1v12h-1z M63,47h2.5v12H63z M67.5,47h1v12h-1z" />
+    <!-- scan frame corners -->
+    <path android:fillColor="#F4F7F5" android:pathData="M30,30h9v3h-6v6h-3z M69,30h9v9h-3v-6h-6z M30,69h3v6h6v3h-9z M75,69h3v9h-9v-3h6z" />
+</vector>

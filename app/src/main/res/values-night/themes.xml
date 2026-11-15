@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.ShelfCount" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_bg</item>
+    </style>
+    <color name="window_bg">#0A0C0D</color>
+</resources>
